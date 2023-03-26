@@ -2,9 +2,9 @@
 
 ### install the server with these commands
 
-`chmod +x updateServer.sh Serverinstall.sh installPrep.sh`
-
 `cd MinecraftBedrock_Server_Install`
+
+`chmod +x updateServer.sh Serverinstall.sh installPrep.sh`
 
 `./installPrep`
 
