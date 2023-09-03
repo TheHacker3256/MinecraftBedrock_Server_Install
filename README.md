@@ -10,8 +10,13 @@
 `chmod +x updateServer.sh Serverinstall.sh installPrep.sh`
 ```
 
+```
 `./installPrep`
+```
+
 
 ### after logging back in to the server
 
+```
 `./installserver`
+```
